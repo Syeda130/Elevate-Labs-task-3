@@ -1,8 +1,8 @@
- Created a REST API to Manage a List of Books Using Node.js and Express.
- created an array called books to store data of books, like id, title and author.
- used GET, POST, PUT, DELETE HTTP methods to fetch and manipulate the books data.
- Used Postman to test API endpoints
- following are the screenshots of the process.
+ 1. Created a REST API to Manage a List of Books Using Node.js and Express.
+ 2. created an array called books to store data of books, like id, title and author.
+ 3. used GET, POST, PUT, DELETE HTTP methods to fetch and manipulate the books data.
+ 4. Used Postman to test API endpoints
+ 5. following are the screenshots of the process.
  1. GET
  ![alt text](Screenshot-one.png)
 
